@@ -5,6 +5,8 @@ var os = require('os'),
 	swintHelper = require('swint-helper'),
 	swintCopyDir = require('../lib');
 
+global.swintVar.printLevel = 5;
+
 describe('copy-dir', function() {
 	it('Error when no callback', function() {
 		assert.throws(function() {
