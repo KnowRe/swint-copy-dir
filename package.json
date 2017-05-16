@@ -1,6 +1,6 @@
 {
   "name": "swint-copy-dir",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The directory copying function wrapped for swint-task",
   "main": "lib/index.js",
   "scripts": {
