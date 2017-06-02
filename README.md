@@ -1,4 +1,6 @@
 # swint-copy-dir
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Knowre-Dev/swint-copy-dir.svg)](https://greenkeeper.io/)
 The directory copying function wrapped for swint-task
 
 **Warning: This is not the final draft yet, so do not use this until its official version is launched**
