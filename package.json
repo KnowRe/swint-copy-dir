@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-copy-dir",
   "dependencies": {
-    "fs-extra": "3.0.1",
+    "fs-extra": "4.0.0",
     "swint-helper": "1.2.5"
   },
   "devDependencies": {
