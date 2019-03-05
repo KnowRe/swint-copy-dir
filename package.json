@@ -25,11 +25,11 @@
   },
   "homepage": "https://github.com/KnowRe-Dev/swint-copy-dir",
   "dependencies": {
-    "fs-extra": "4.0.3",
-    "swint-helper": "1.2.8"
+    "fs-extra": "7.0.1",
+    "swint-helper": "1.2.10"
   },
   "devDependencies": {
-    "mocha": "4.0.1",
-    "eslint": "4.12.1"
+    "mocha": "6.0.2",
+    "eslint": "5.15.1"
   }
 }
